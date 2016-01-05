@@ -1,7 +1,7 @@
 # play_pushsok
 Basic codes for sokoban
 
-This repository does not contain full sources.
+This repository have a few missing sources or codes.
 
 
 Developed using :
