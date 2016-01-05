@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sokoban09_04</string>
+
+    <string name="last_activity_class_name">"ActivityClassName"</string>
+    <string name="stage_number">"Stage Number"</string>
+    <string name="new_stage">"New Stage</string>
+
+    <string name="play_sokoban_bundle">"Play Sokoban"</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
